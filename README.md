@@ -8,7 +8,7 @@
 ****
 参赛成员
 
-[张杰民](https://github.com/DB-jiemin) s492120890@gmail.com
+[张杰民](https://github.com/DB-jiemin) zjiemin.ai@gmail.com
 
 [胡盛菁](https://github.com/Hushengjing) hsjarren@gmail.com
 
